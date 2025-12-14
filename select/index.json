@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Try add",
+  "base_artist": "Nornis",
+  "createdAt": "2025-12-14T05:13:33.509368Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Try add",
+      "artist": "Nornis",
+      "has_synced": false,
+      "path": "select/01_Try_add_Nornis.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Try add",
+      "artist": "Nornis",
+      "has_synced": false,
+      "path": "select/pl_01_Try_add_Nornis.txt"
+    }
+  ]
+}
